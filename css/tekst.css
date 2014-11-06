@@ -1,0 +1,30 @@
+h1 {font-size: 18px}
+
+p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hind', sans-serif}
+
+md {font-family: 'Hind';
+    font-size: 16px;
+}
+
+main {
+   background-image: none;
+   background-repeat: horizontal;
+   background-size: auto;
+   background-color: #fbfbfb;
+   font-family: 'Rubik Mono One', sans-serif;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.wybrane {
+    color:#ff0000;
+}
+
+main div {
+   margin-top: 10px;
+   min-width: 300px;
+   width: 600px;
+   margin-left: auto;
+   margin-right: auto;
+   font-size: 16px;
+}

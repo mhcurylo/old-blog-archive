@@ -1,0 +1,6 @@
+[
+    {"autor": ["Mateusz Curyło"],
+     "tytul": "Za dupa Pierwszy post mateusza",
+     "tresc":  "teksty/post1.md",
+      "tagi": ["wowow", "co", "md", "#1"]},
+]

@@ -1,0 +1,185 @@
+h1 {font-size: 18px}
+
+p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hind', sans-serif}
+
+md {font-family: 'Hind';
+}
+
+
+body {
+   max-width: 1400px;
+   background-image: none;
+   background-repeat: horizontal;
+   background-size: auto;
+   background-color: #fffefe;
+   font-family: 'Rubik Mono One', sans-serif;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+header a:link {text-decoration: none;}
+header a:visited {text-decoration: none;;}
+header a:active {text-decoration: none;}
+header a:hover {text-decoration: none;}
+
+nav a:link {text-decoration: none}
+nav a:visited {text-decoration: none}
+nav a:active {text-decoration: none}
+nav a:hover {text-decoration: none}
+
+header { 
+  position: relative;
+  background-color: none;
+  clear: both;
+  margin-left: 0%;
+  margin-right: 10%;
+  margin-top: 10px;
+  width: 100%;
+  min-height: 200px;
+}
+
+header h2 {
+    color: #bbbbbb;
+    position: fixed;
+    margin-left: 10px;
+    font-size: 60px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+header h1 {
+    color: #bbbbbb;
+    position: fixed;
+    margin-left: 10px;
+    font-size: 120px;
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+header img {
+    margin-top: 10px;
+    float: left;
+}
+
+
+button { 
+  cursor: pointer; 
+  background-color:rgba(255, 255, 255, 1);   
+  border:1px;   
+  border-color: (255, 255, 255, 0.7); 
+  font-family: 'Rubik Mono One', sans-serif;  
+  color: #4f4f4f;
+}
+
+
+nav {
+   position: relative;
+   z-index: 1;
+   background-color:rgba(255, 255, 255, 0.9);
+   border-radius: 2x;
+   clear: both;
+   float: left; 
+   margin-top: 0px;
+   width: 300px;
+   font-size: 12px;  
+   font-family: 'Rubik Mono One', sans-serif; 
+}
+
+nav li {
+    font-size: 12px;
+    color: #4f4f4f;
+    margin-bottom: 0px;
+}
+
+nav h2 {
+    margin-left: -10px;
+    font-size: 14px;
+    color: #4f4f4f;
+}
+
+.wybrane {
+    color:#bb0000;
+}
+
+main {
+   position: relative;
+   z-index: 1;
+   background-color:rgba(255, 255, 255, 0.9);   
+   border-radius: 2x;
+   float: left;
+   max-width: 750px;
+   padding-left: 5px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+main div p {
+     
+}
+
+main div p:first-child::first-letter {
+        font-family: 'Rubik Mono One', sans-serif;
+        padding-right: 0px; 
+        padding-left: 0px; 
+        font-size: 44pt; 
+        left: 0px; 
+        float: left; 
+        padding-bottom: 0px; 
+        padding-top: 8px; 
+        top: 100px;
+        color: #bb0000;
+}
+
+
+main li h1{font-size: 14px;
+}
+main li p{font-size: 16px;
+}
+
+main h1 {
+        font-size: 20px; 
+}
+main h2 {font-family: 'Hind';
+        font-size: 20px;
+}
+main h3 {font-family: 'Hind';
+        font-size: 18px;
+}
+main p {font-family: 'Hind';
+        font-size: 18px;
+}
+
+main div div button { 
+    margin-top: -3px;
+}
+
+main div div {
+    margin-top: -10px;
+    margin-left: 10px;
+    color: #4f4f4f;
+    font-size: 12px;
+}
+
+main img {
+    max-width: 90%;
+}
+
+div { 
+ }
+
+
+li { 
+    font-size: 12px;
+    list-style: none;
+}
+
+li h1 { font-size: 20px;
+    
+}
+
+footer {
+     position: relative;
+    z-index: 1;
+}
