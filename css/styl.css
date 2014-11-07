@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
 	font-family: Rubik Mono One;
 	src: url('/css/Rubik_Mono_One/RubikMonoOne-Regular.tff');
@@ -7,6 +8,8 @@
 	font-family: Hind;
 	src: url('/css/Hind/hind-medium.tff');
 }
+=======
+>>>>>>> origin/master
 
 
 h1 {font-size: 18px}
@@ -39,6 +42,7 @@ nav a:active {text-decoration: none}
 nav a:hover {text-decoration: none}
 
 header { 
+  font-family: 'Rubik Mono One', sans-serif;
   position: relative;
   background-color: none;
   clear: both;
