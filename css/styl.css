@@ -1,15 +1,19 @@
 
 @font-face {
-	font-family: Rubik Mono One;
+	font-family: RubikMonoOne;
 	src: url('Rubik_Mono_One/RubikMonoOne-Regular.ttf');
+}
+@font-face {
+	font-family: Hindprim;
+	src: url('Hind/Hind-Regular.ttf');
 }
 
 
 h1 {font-size: 18px}
 
-p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hind', sans-serif}
+p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hindprim', 'Hind', sans-serif}
 
-md {font-family: 'Hind';
+md {font-family: 'Hindprim', 'Hind';
 }
 
 
@@ -19,7 +23,7 @@ body {
    background-repeat: horizontal;
    background-size: auto;
    background-color: #fffefe;
-   font-family: 'Rubik Mono One', sans-serif;
+   font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;
    margin-left: auto;
    margin-right: auto;
 }
@@ -35,7 +39,7 @@ nav a:active {text-decoration: none}
 nav a:hover {text-decoration: none}
 
 header { 
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;
   position: relative;
   background-color: none;
   clear: both;
@@ -77,7 +81,7 @@ button {
   background-color:rgba(255, 255, 255, 1);   
   border:1px;   
   border-color: (255, 255, 255, 0.7); 
-  font-family: 'Rubik Mono One', sans-serif;  
+  font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;  
   color: #4f4f4f;
 }
 
@@ -92,7 +96,7 @@ nav {
    margin-top: 0px;
    width: 300px;
    font-size: 12px;  
-   font-family: 'Rubik Mono One', sans-serif; 
+   font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif; 
 }
 
 nav li {
@@ -128,7 +132,7 @@ main div p {
 }
 
 main div p:first-child::first-letter {
-        font-family: 'Rubik Mono One', sans-serif;
+        font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;
         padding-right: 0px; 
         padding-left: 0px; 
         font-size: 44pt; 
@@ -149,13 +153,13 @@ main li p{font-size: 16px;
 main h1 {
         font-size: 20px; 
 }
-main h2 {font-family: 'Hind';
+main h2 {font-family: 'Hindprim', 'Hind';
         font-size: 20px;
 }
-main h3 {font-family: 'Hind';
+main h3 {font-family: 'Hindprim', 'Hind';
         font-size: 18px;
 }
-main p {font-family: 'Hind';
+main p {font-family: 'Hindprim', 'Hind';
         font-size: 18px;
 }
 
