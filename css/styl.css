@@ -1,3 +1,5 @@
+
+
 h1 {font-size: 18px}
 
 p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hind', sans-serif}
@@ -28,6 +30,7 @@ nav a:active {text-decoration: none}
 nav a:hover {text-decoration: none}
 
 header { 
+  font-family: 'Rubik Mono One', sans-serif;
   position: relative;
   background-color: none;
   clear: both;
