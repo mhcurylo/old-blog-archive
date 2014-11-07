@@ -1,3 +1,14 @@
+@font-face {
+	font-family: Rubik Mono One;
+	src: url('/css/Rubik_Mono_One/RubikMonoOne-Regular.tff');
+}
+
+@font-face {
+	font-family: Hind;
+	src: url('/css/Hind/hind-medium.tff');
+}
+
+
 h1 {font-size: 18px}
 
 p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hind', sans-serif}
