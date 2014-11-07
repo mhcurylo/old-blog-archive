@@ -13,7 +13,7 @@ h1 {font-size: 18px}
 
 p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hindprim', 'Hind', sans-serif}
 
-md {font-family: 'Hindprim', 'Hind';
+md {font-family: 'Hindprim', 'Hind', Arial, Helvetica, sans-serif;
 }
 
 
@@ -139,8 +139,8 @@ main div p:first-child::first-letter {
         left: 0px; 
         float: left; 
         padding-bottom: 0px; 
-        padding-top: 8px; 
-        top: 100px;
+        padding-top: 0px; 
+        top: 50px;
         color: #bb0000;
 }
 
