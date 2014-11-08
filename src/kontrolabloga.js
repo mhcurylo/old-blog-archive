@@ -13,6 +13,12 @@ kontrolabloga.controller('LekturaController', ['$scope', '$http', '$routeParams'
 kontrolabloga.controller('TekstyController', ['$scope', '$http', function ($scope, $http) {
   $scope.teksty = [];
   $scope.tagi = [];
+  $scope.tlo = '';
+  var elementytla = [['░', '▒', '▓', '​'], ['╦', '╬', '╩','╦', '╬', '╩', '​'], ['║', '│', '║', '│', '​'], ['└','┌','┐','┘','├','┤','┬','┴','┼','​']];
+  var typtla = Math.floor(Math.random() * elementytla.length);
+  for (var i = 0; i < 7000; i++) {
+    $scope.tlo += elementytla[typtla][Math.floor(Math.random() * elementytla[typtla].length)];
+   };
     
    $http.get('teksty/teksty.json').success(function (jsondata) {$scope.teksty = jsondata;
                                                                 $scope.teksty.forEach( function (tekst){tekst.otwarty = true;

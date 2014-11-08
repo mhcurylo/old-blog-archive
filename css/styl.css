@@ -1,4 +1,4 @@
-
+* {margin: 0px; padding: 0px;}
 @font-face {
 	font-family: RubikMonoOne;
 	src: url('Rubik_Mono_One/RubikMonoOne-Regular.ttf');
@@ -50,7 +50,17 @@ header {
   min-height: 200px;
 }
 
+header div {
+    font-family: serif;
+    top: -50px;
+    z-index: -2;
+    position: fixed;
+    max-width: 100%;
+    width: 100%; 
+}
+
 header h2 {
+    background: rgba(255, 255, 255, 0.9);
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
@@ -61,6 +71,7 @@ header h2 {
 }
 
 header h1 {
+    background-color: rgba(255, 255, 255, 0.9);
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
@@ -133,15 +144,12 @@ main div p {
 
 main div p:first-child::first-letter {
         font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;
-        padding-right: 0px; 
-        padding-left: 0px; 
+        float: left;
+        padding-top: 0.1em;
+        margin-top: 0.1em;
+        line-height: 0.6em;
         font-size: 44pt; 
-        left: 0px; 
-        float: left; 
-        padding-bottom: 0px; 
-        padding-top: 0px; 
-        top: 50px;
-        color: #bb0000;
+        color: #bb0000;  
 }
 
 
