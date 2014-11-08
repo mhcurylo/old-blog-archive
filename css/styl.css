@@ -107,6 +107,7 @@ nav {
    float: left; 
    margin-top: 0px;
    width: 300px;
+   min-width: 200px;
    font-size: 12px;  
    font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif; 
 }
@@ -128,6 +129,7 @@ nav h2 {
 }
 
 main {
+   min-width: 400px;
    position: relative;
    z-index: 1;
    background-color:rgba(255, 255, 255, 0.9);   
