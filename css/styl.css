@@ -51,16 +51,16 @@ header {
 }
 
 header div {
+    left: -300px;
     font-family: serif;
     top: -50px;
     z-index: -2;
     position: fixed;
     max-width: 100%;
-    width: 100%; 
 }
 
 header h2 {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0);
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
@@ -71,7 +71,7 @@ header h2 {
 }
 
 header h1 {
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0);
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
@@ -100,7 +100,7 @@ button {
 nav {
    position: relative;
    z-index: 1;
-   background-color:rgba(255, 255, 255, 0.95);
+   background-color:rgba(255, 255, 255, 0.8);
    border-radius: 2x;
    clear: both;
    float: left; 
@@ -129,7 +129,7 @@ nav h2 {
 main {
    position: relative;
    z-index: 1;
-   background-color:rgba(255, 255, 255, 0.95);   
+   background-color:rgba(255, 255, 255, 0.8);   
    border-radius: 2x;
    float: left;
    max-width: 750px;
