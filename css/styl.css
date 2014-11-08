@@ -57,6 +57,9 @@ header div {
     z-index: -2;
     position: fixed;
     max-width: 150%;
+    text-shadow: 
+      0px 1px 0 #000,
+      0px -1px 0 #000;
 }
 
 header h2 {
