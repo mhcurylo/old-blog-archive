@@ -14,7 +14,7 @@ kontrolabloga.controller('TekstyController', ['$scope', '$http', function ($scop
   $scope.teksty = [];
   $scope.tagi = [];
   $scope.tlo = '';
-  var elementytla = [['░', '▒', '▓','▓', '​'], ['░', '▒','▒', '▓', '​'], ['░','░', '▒', '▓', '​'], ['╦', '╬', '╩','╦', '╬', '╩', '​'], ['║', '│', '║', '│', '​'], ['└','┌','┐','┘','├','┤','┬','┴','┼','​']];
+  var elementytla = [['▪','▫','□','■','​'], ['░', '▒', '▓','▓', '​'], ['░', '▒','▒', '▓', '​'], ['░','░', '▒', '▓', '​'], ['╦', '╬', '╩','╦', '╬', '╩', '​'], ['║', '│', '║', '│', '​'], ['└','┌','┐','┘','├','┤','┬','┴','┼','​']];
   var typtla = Math.floor(Math.random() * elementytla.length);
   for (var i = 0; i < 10000; i++) {
     $scope.tlo += elementytla[typtla][Math.floor(Math.random() * elementytla[typtla].length)];
