@@ -1,18 +1,4 @@
-<<<<<<< HEAD
 McLuhan rzekł, że medium jest masarzem. Zdanie to jest rozumiane, jak i tłumaczone, na wiele sposobów. Nazwa bloga bierze się z próby naprawienia błędnego poprawienia błędu McLuhana dokonanego przez Friedricha Adolfa Kittlera. McLuhan napisał, że prasa drukarska Gutenberga była wzorem dla taśmy produkcyjnej Forda. Kittler próbował go poprawić, twierdząc, że wzorem dla taśmy produkcyjnej Forda była taśma produkcyjna Forda. 
-=======
-Jeżeli miałeś nadzieję, że to pierwszy artykuł - przeliczyłeś się. To jedynie plik, na miejsce którego zostanie wstawiony pierwszy artykuł w ciągu najbliższej doby. Zostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie blogaJeżeli miałeś nadzieję, że to pierwszy artykuł - przeliczyłeś się. To jedynie plik, na miejsce którego zostanie wstawiony pierwszy artykuł w ciągu najbliższej doby. Zostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.ostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
-Zostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
-Pozostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
-Dostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
-Zastało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
-
-
-Jeżeli miałeś nadzieję, że to pierwszy artykuł - przeliczyłeś się. To jedynie plik, na miejsce którego zostanie wstawiony pierwszy artykuł w ciągu najbliższej doby. Zostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie blogaJeżeli miałeś nadzieję, że to pierwszy artykuł - przeliczyłeś się. To jedynie plik, na miejsce którego zostanie wstawiony pierwszy artykuł w ciągu najbliższej doby. Zostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.ostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
-
-
-Warto czekać?.
->>>>>>> origin/master
 
 Błąd. Protoplastą taśmy produkcyjnej była taśma służąca do parcelacji wołów stosowana przez ubojnie Union Stockyard w Chicago. Asamblaż automobilu poprzedziły innowacje w zakresie przyspieszenia dysasamblażu wołu. Przyspieszenie dysasamblażu wołu poprzedził rozwój kolei, doładowały chłodnie, a na powstałych odpadach wyrosły wieżowce.
 
