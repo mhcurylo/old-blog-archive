@@ -67,10 +67,11 @@
          [D] {{tekst.data | date:'M/d/yy hh:mm'}} [A]<span ng-repeat="autor in tekst.autor"> {{autor}}</span><br>[T] <span ng-repeat="tag in tekst.tagi"> {{tag}}</span>
               <br><a ng-href="#/teksty/{{tekst.tytul}}"><span class="wybrane">[l]</span>ink</a>&nbsp;
                <button ng-click="otworz(tekst)">
-                  <span ng-hide=tekst.otwarty><span class="wybrane" >[O]</span>tworz&nbsp; </span>
+                  <span ng-hide=tekst.otwarty><span class="wybrane" >[O]</span>tworz </span>
                   <span ng-show=tekst.otwarty><span class="wybrane" >[Z]</span>amknij</span>
               </button> 
-           </div>
+              &nbsp;<a href="index.html"><span class="wybrane">[W]</span>RÓĆ</a>
+        </div>
          <md ng-include=tekst.tresc ng-show=tekst.otwarty></md>
          </div>
             
