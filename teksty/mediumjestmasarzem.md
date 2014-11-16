@@ -1,7 +1,13 @@
-Jeżeli miałeś nadzieję, że to pierwszy artykuł - przeliczyłeś się. To jedynie plik, na miejsce którego zostanie wstawiony pierwszy artykuł w ciągu najbliższej doby. Zostało jedynie to i biorę się do ciekawszego zajęcia, niż pisanie bloga.
+McLuhan rzekł, że medium jest masarzem. Zdanie to jest rozumiane, jak i tłumaczone, na wiele sposobów. Nazwa bloga bierze się z próby naprawienia błędnego poprawienia błędu McLuhana dokonanego przez Friedricha Adolfa Kittlera. McLuhan napisał, że prasa drukarska Gutenberga była wzorem dla taśmy produkcyjnej Forda. Kittler próbował go poprawić, twierdząc, że wzorem dla taśmy produkcyjnej Forda była taśma produkcyjna Forda. 
 
+Błąd. Protoplastą taśmy produkcyjnej była taśma służąca do parcelacji wołów stosowana przez ubojnie Union Stockyard w Chicago. Asamblaż automobilu poprzedziły innowacje w zakresie przyspieszenia dysasamblażu wołu. Przyspieszenie dysasamblażu wołu poprzedził rozwój kolei, doładowały chłodnie, a na powstałych odpadach wyrosły wieżowce.
 
-Warto czekać?
+Wieżowiec i masarnia wyznaczają dwie skrajne pozycje na mapie mediów i znaczenia. Kody kulturowe odnoszące się do zwierząt i ich śmierci podróżują windami, liniami telefonicznymi i pocztą pneumatyczną wieżowca. Ich desygnat przewożony jest na hakach i ćwiartowany według kodów przechowywanych w formie jednowymiarowych linii i dwuwymiarowych obrazków. 
 
+Wieżowce stanowią wertykalne masarnie. Wprowadziły kwantyfikacje powierzchni biurowej na małe zagrody pozwalające dynamicznie dopasować powierzchnię do posiadanego przez pracodawcę pogłowia. Psychoanalitycy pławią się w opisach stosunków między pozbawionymi sensu kodami przetwarzanymi przez mieszkańców wieżowca, ich życiem zaprogramowanym przez wyobrażenia reprodukowane w ciemniach fotograficznych i nieoznakowanym realnym znajdującym się poza miastem. 
 
-#PEWNIE NIE
+Masarnie znalazły się w nieoznakowanych budynkach poza metropolią z przyczyn higienicznych i etycznych. Mogłyby źle wpłynąć na czystość miasta i samopoczucie ludzi. Niestety świat jest płaski i pozbawiony głębi. Kod i wyobrażenia ludzi wieżowca należą do tego samego, horyzontalnego porządku masarni. Dzieje się tak, gdyż mapy i instrukcje nie posiadają żadnego znaczenia, wyznaczają jedynie sposoby parcelacji swoich desygnatów. Nie oznaczają ich, lecz pozbawiają znaczenia. Podział na znaczenie i symulacje, realne i wyobrażone nie ma sensu w świecie konkretnych wołów parcelowanych według konkretnych instrukcji, konkretnych terytoriów pociętych przez konkretne mapy. Symboliczne, realne, wyobrażeniowe - ot, trzy łańcuchy kodowe wyznaczające nieużyteczne sposoby cięcia w służbie poszukiwania znacznie. Znaczki te przykrywają smutną prawdę symboli i kodów: symbole i kody nigdy nic nie znaczyły, co najwyżej indeksowały znaczenia pozbawiając zindeksowane w ten sposób przedmioty - kurczaki, krowy i ludzi - znaczenia i sensu. 
+
+Media parcelują i desygnifikują przedmioty transmitowanych, indeksujących kodów. Od 10.000 lat żyją w ten sposób żyją zwierzęta i ludzi. Dobrze ugruntowaną chłodnię i klimatyzację ostatniego piętra kontrolują procesory Siemensa jednego typu. 
+Załóż na rękę traker i postaw inteligentny dom. Medium jest masarzem. 
+Dlatego nie używamy plików cookies.
