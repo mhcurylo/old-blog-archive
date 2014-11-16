@@ -56,7 +56,7 @@ header div {
     top: -50px;
     z-index: -2;
     position: fixed;
-    max-width: 530px+100%;
+    max-width: 520px+100%;
     text-shadow: 
       0px 1px 0 #000,
       0px -1px 0 #000;
@@ -76,7 +76,7 @@ header h1 {
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
-    font-size: 7.6em;
+    font-size: 8.4em;
     float: left;
     margin-top: 10px;
     margin-bottom: 0px;
@@ -110,7 +110,7 @@ nav {
    clear: both;
    float: left; 
    margin-top: 0px;
-   width: 300px;
+   width: 350px;
    min-width: 200px;
    font-size: 0.8em;  
    font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif; 
@@ -133,6 +133,8 @@ nav h2 {
 }
 
 main {
+   padding: 10px;
+   margin-top: 0px;
    min-width: 400px;
    position: relative;
    z-index: 1;
@@ -141,8 +143,6 @@ main {
    float: left;
    max-width: 750px;
    padding-left: 5px;
-   margin-left: auto;
-   margin-right: auto;
 }
 
 main div p {
