@@ -9,9 +9,9 @@
 }
 
 
-h1 {font-size: 18px}
+h1 {font-size: 0.8em}
 
-p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 16px; text-align: left; font-family: 'Hindprim', 'Hind', sans-serif}
+p {margin-left: 22px; margin-right: 10px; margin-top: 10px; font-size: 0.8em; text-align: left; font-family: 'Hindprim', 'Hind', sans-serif}
 
 md {font-family: 'Hindprim', 'Hind', Arial, Helvetica, sans-serif;
 }
@@ -47,7 +47,7 @@ header {
   margin-right: 10%;
   margin-top: 10px;
   width: 100%;
-  min-height: 200px;
+  min-height: 10em;
 }
 
 header div {
@@ -66,7 +66,7 @@ header h2 {
     color: #4f4f4f;
     position: fixed;
     margin-left: 10px;
-    font-size: 60px;
+    font-size: 4em;
     float: left;
     margin-top: 10px;
     margin-bottom: 0px;
@@ -76,7 +76,7 @@ header h1 {
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
-    font-size: 120px;
+    font-size: 7.6em;
     float: left;
     margin-top: 10px;
     margin-bottom: 0px;
@@ -95,7 +95,6 @@ button {
   border-color: (255, 255, 255, 0.7); 
   font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;  
   color: #4f4f4f;
-  min-height: 35px;
 }
 
 button * {
@@ -113,19 +112,19 @@ nav {
    margin-top: 0px;
    width: 300px;
    min-width: 200px;
-   font-size: 12px;  
+   font-size: 0.8em;  
    font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif; 
 }
 
 nav li {
-    font-size: 12px;
+    font-size: 0.8empt;
     color: #4f4f4f;
     margin-bottom: 0px;
 }
 
 nav h2 {
     margin-left: -10px;
-    font-size: 14px;
+    font-size: 1.1em;
     color: #4f4f4f;
 }
 
@@ -156,27 +155,27 @@ main div p:first-child::first-letter {
         padding-top: 0.1em;
         margin-top: 0.1em;
         line-height: 0.6em;
-        font-size: 44pt; 
+        font-size: 3.2em; 
         color: #bb0000;  
 }
 
 
-main li h1{font-size: 14px;
+main li h1{font-size: 1em;
 }
-main li p{font-size: 16px;
+main li p{font-size: 1em;
 }
 
 main h1 {
-        font-size: 20px; 
+        font-size: 1.2em; 
 }
 main h2 {font-family: 'Hindprim', 'Hind';
-        font-size: 20px;
+        font-size: 1.2em;
 }
 main h3 {font-family: 'Hindprim', 'Hind';
-        font-size: 18px;
+        font-size: 1.1em;
 }
 main p {font-family: 'Hindprim', 'Hind';
-        font-size: 18px;
+        font-size: 1.1em;
 }
 
 main div div button { 
@@ -187,7 +186,7 @@ main div div {
     margin-top: -10px;
     margin-left: 10px;
     color: #4f4f4f;
-    font-size: 12px;
+    font-size: 0.8em;
 }
 
 main img {
@@ -199,11 +198,11 @@ div {
 
 
 li { 
-    font-size: 12px;
+    font-size: 1em;
     list-style: none;
 }
 
-li h1 { font-size: 20px;
+li h1 { font-size: 1.1em;
     
 }
 
