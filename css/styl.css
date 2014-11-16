@@ -22,7 +22,7 @@ body {
    background-image: none;
    background-repeat: horizontal;
    background-size: auto;
-   background-color: #fffefe;
+   background-color: #fdfafa;
    font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;
    margin-left: auto;
    margin-right: auto;
@@ -51,17 +51,19 @@ header {
 }
 
 header div {
+    left: -520px;
     font-family: serif;
     top: -50px;
     z-index: -2;
     position: fixed;
-    max-width: 100%;
-    width: 100%; 
+    max-width: 150%;
+    text-shadow: 
+      0px 1px 0 #000,
+      0px -1px 0 #000;
 }
 
 header h2 {
-    background: rgba(255, 255, 255, 0.9);
-    color: #bbbbbb;
+    color: #4f4f4f;
     position: fixed;
     margin-left: 10px;
     font-size: 60px;
@@ -71,7 +73,6 @@ header h2 {
 }
 
 header h1 {
-    background-color: rgba(255, 255, 255, 0.9);
     color: #bbbbbb;
     position: fixed;
     margin-left: 10px;
@@ -89,23 +90,29 @@ header img {
 
 button { 
   cursor: pointer; 
-  background-color:rgba(255, 255, 255, 1);   
+  background-color:rgba(255, 255, 255, 0.9);   
   border:1px;   
   border-color: (255, 255, 255, 0.7); 
   font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif;  
   color: #4f4f4f;
+  min-height: 35px;
+}
+
+button * {
+	margin: 5px;
 }
 
 
 nav {
    position: relative;
    z-index: 1;
-   background-color:rgba(255, 255, 255, 0.9);
+   background-color:rgba(255, 255, 255, 0.8);
    border-radius: 2x;
    clear: both;
    float: left; 
    margin-top: 0px;
    width: 300px;
+   min-width: 200px;
    font-size: 12px;  
    font-family: 'RubikMonoOne', 'Rubik Mono One', sans-serif; 
 }
@@ -127,6 +134,7 @@ nav h2 {
 }
 
 main {
+   min-width: 400px;
    position: relative;
    z-index: 1;
    background-color:rgba(255, 255, 255, 0.9);   
