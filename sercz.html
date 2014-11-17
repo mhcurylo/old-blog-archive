@@ -70,7 +70,7 @@
                   <span ng-hide=tekst.otwarty><span class="wybrane" >[O]</span>tworz </span>
                   <span ng-show=tekst.otwarty><span class="wybrane" >[Z]</span>amknij</span>
               </button> 
-              &nbsp;<a href="index.html"><span class="wybrane">[W]</span>RÓĆ</a>
+              &nbsp;<a ng-show=tekst.otwarty href="index.html"><span class="wybrane">[W]</span>RÓĆ</a>
         </div>
          <md ng-include=tekst.tresc ng-show=tekst.otwarty></md>
          </div>
