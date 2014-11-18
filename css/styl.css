@@ -8,6 +8,20 @@
 	src: url('Hind/Hind-Regular.ttf');
 }
 
+@media handheld {
+    nav {
+        float:none;
+        margin-left: auto;
+        margin-right: auto;
+        width: 750px;
+    }
+    main {
+        float: none;
+        margin-left: auto;
+        margin-right: auto;
+        width: 750px;
+    }    
+}
 
 h1 {font-size: 0.8em}
 
