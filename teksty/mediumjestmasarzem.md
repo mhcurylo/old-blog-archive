@@ -12,7 +12,7 @@ Masarnie znalazły się w nieoznakowanych budynkach poza metropolią z przyczyn 
 
 Media parcelują i desygnifikują przedmiot transmitowanych kodów.  Podmieniają je na łatwiejsze w manipulacji indeksy, od prostych tokenów do komórek tabelek Excela. Przez 10.000 lat kody hodowały w ten sposób zwierzęta i ludzi. Chłodnie na przedmieściach jak i klimatyzacje penthausów kontrolowane są przez procesory Siemensa jednego typu. Nie ma wertykalnych kodów prowadzących do nieba. Na serwerach Googla i NSA przetwarza się nie informacje a ludzi. Dla pism wszyscy jesteśmy wołami.
 
-A więc załóż na rękę traker i postaw inteligentny dom. Medium jest masarnią.
+Załóż na rękę traker i postaw inteligentny dom. Medium jest masarnią.
 
 Dlatego nie używamy plików cookies.
 
