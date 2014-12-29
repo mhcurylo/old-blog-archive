@@ -5,7 +5,8 @@ kontrolabloga.controller('LekturaController', ['$scope', '$http', '$routeParams'
     $scope.lektura = [];
     $scope.gowno = [11111,2222,3333];
     $http.get('teksty/teksty.json').success(function (jsondata) {jsondata.forEach( function (txt) {
-                                                                           $http.head(txt.tresc).success(function(data, status, headers, config) {txt.data = new Date(headers('Last-modified'));  if (txt.tytul == $routeParams.tytul){$scope.lektura = txt; };});  });
+                     txt.data =  new Date(parseInt(txt.date));
+                                                                           $http.head(txt.tresc).success(function(data, status, headers, config) {if (txt.tytul == $routeParams.tytul){$scope.lektura = txt; };});  });
                                                                  });
 
    }]);
@@ -22,7 +23,9 @@ kontrolabloga.controller('TekstyController', ['$scope', '$http', function ($scop
     
    $http.get('teksty/teksty.json').success(function (jsondata) {$scope.teksty = jsondata;
                                                                 $scope.teksty.forEach( function (tekst){tekst.otwarty = true;
-                                                                                                       $http.head(tekst.tresc).success(function(data, status, headers, config) {tekst.data = new Date(headers('Last-modified'))});              });
+                                                                                                        tekst.data =  new Date(parseInt(tekst.date));
+                                                                                                     //  $http.head(tekst.tresc).success(function(data, status, headers, config) {tekst.data = new Date(headers('Last-modified'))});              
+                                                                                                       });
                                                                     
                                                                    $scope.teksty.forEach(function sprawdztagi(tekst) {
                                                                       tekst.tagi.forEach(function zmientaga(tag) {
