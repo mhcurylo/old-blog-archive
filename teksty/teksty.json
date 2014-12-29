@@ -2,5 +2,9 @@
     {"autor": ["Mateusz Curyło"],
      "tytul": "Medium jest masarzem",
      "tresc":  "teksty/mediumjestmasarzem.md",
-      "tagi": ["media", "filozofia", "masarnia", "kod"]}
+      "tagi": ["media", "filozofia", "masarnia", "kod"]},
+    {"autor": ["Mateusz Curyło"],
+     "tytul": "Dyskurs i władza",
+     "tresc":  "teksty/dyskursiwladza.md",
+      "tagi": ["filozofia", "edukacja", "dyskurs", "władza", "kod"]}"
 ]
