@@ -11,6 +11,11 @@ Masarnia.config(['$routeProvider',
         templateUrl: 'lektura.html',
         controller: 'LekturaController',
       }).
+      when('/akceleratorlist', {
+        templateUrl: 'akceleratorlist.html',
+        controller: 'AkceleratorCtrl',
+        controllerAs: 'ctrl'
+      }).
       otherwise({
         redirectTo: '/home'
       });

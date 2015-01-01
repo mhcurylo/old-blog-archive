@@ -2,9 +2,17 @@
     {"autor": ["Mateusz Curyło"],
      "tytul": "Medium jest masarzem",
      "tresc":  "teksty/mediumjestmasarzem.md",
-      "tagi": ["media", "filozofia", "masarnia", "kod"]},
+      "tagi": ["media", "filozofia", "masarnia", "kod"],
+      "date": 1416975072121},
     {"autor": ["Mateusz Curyło"],
      "tytul": "Dyskurs i władza",
      "tresc":  "teksty/dyskursiwladza.md",
-      "tagi": ["filozofia", "edukacja", "dyskurs", "władza", "kod"]}
+      "tagi": ["filozofia", "edukacja", "dyskurs", "władza", "kod"],
+      "date": 1419863197427},
+             
+    {"autor": ["Mateusz Curyło"],
+     "tytul": "Super Nowy Darmowy Software do Akceleracji List",
+     "tresc":  "teksty/akceleratorlist.md",
+      "tagi": ["software", "listy", "władza", "edukacja"],
+      "date": 1420135976333}
 ]
