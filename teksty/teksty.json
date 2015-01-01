@@ -8,6 +8,7 @@
      "tytul": "Dyskurs i władza",
      "tresc":  "teksty/dyskursiwladza.md",
       "tagi": ["filozofia", "edukacja", "dyskurs", "władza", "kod"],
+<<<<<<< HEAD
       "date": 1419863197427},
              
     {"autor": ["Mateusz Curyło"],
@@ -15,4 +16,7 @@
      "tresc":  "teksty/akceleratorlist.md",
       "tagi": ["software", "listy", "władza", "edukacja"],
       "date": 1420135976333}
+=======
+      "date": 1419863197427}
+>>>>>>> origin/master
 ]
