@@ -7,7 +7,7 @@ Każda lista zawiera w sobie dwa podstępy. Pierwszy podstęp skierowany jest pr
 
 Niestety, za listą nic nie stoi. Odwrotne twierdzenie zahacza o bałwochwalstwo.
 
-Drodzy czytelnicy, abyście nie musieli męczyć się wstrzykując znaczenie w listy, by móc je z nich wyciskać, powstał Akcelerator List. Prosty program do akcelerowania procesu tworzenia zdrowych niedyskryminujących list. 
+Drodzy Czytelnicy, abyście nie musieli męczyć się wstrzykując znaczenie w listy, by móc je z nich wyciskać, powstał Akcelerator List. Prosty program do akcelerowania procesu tworzenia zdrowych niedyskryminujących list. 
 
 >>>###Super Nowy Darmowy Software do Akceleracji List.###
 >>>>>>##[AKCELERATOR LIST]( http://masarnia.info/#/akceleratorlist)##  
